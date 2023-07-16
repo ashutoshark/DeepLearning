@@ -1,0 +1,4 @@
+TensorFlow == 2.12.1
+mitdeeplearning == 0.3.0
+matplotlib == 3.7.2
+opencv-python==4.8.0.74
